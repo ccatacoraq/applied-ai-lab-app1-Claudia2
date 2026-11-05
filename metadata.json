@@ -1,0 +1,6 @@
+{
+  "name": "RevLens Quarterly Sales Analytics",
+  "description": "Upload sales order CSV datasets to analyze total revenue by region and quarter via interactive charts and pivot tables, with AI-generated Q2-to-Q3 variance attribution strictly grounded in calculated figures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
